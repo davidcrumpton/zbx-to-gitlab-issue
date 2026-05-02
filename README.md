@@ -60,3 +60,7 @@ zbx-to-gitlab-issue/
 
 * Zabbix 6.4 or higher
 * GitLab project with webhook access and API access
+
+## Example
+
+![Zabbix triggered message in GitLab](./example.png)
